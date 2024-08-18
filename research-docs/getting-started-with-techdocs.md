@@ -5,7 +5,7 @@ Prerequisites:
 - [Creating your Backstage App](https://backstage.io/docs/getting-started/)
 - [Register your app as an existing component](https://backstage.io/docs/features/software-catalog/#adding-components-to-the-catalog)
 
-At this point, you have an existing repository of your Backstage application, and you have also registered it as an existing component with your Backstage instance. let’s now add basic documentation.
+At this point, you have an existing repository of your Backstage application, and you have also registered it as an existing component within your Backstage instance. let’s now add basic documentation.
 
 Create a `mkdocs.yml` file in the root of your repository with the following content:
 
