@@ -1,4 +1,4 @@
-This is a basic guide for adding documentation to your Backstage application using techdocs.
+## This is a basic guide for adding documentation to your Backstage application using techdocs.
 
 Prerequisites:
 
