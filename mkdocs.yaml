@@ -1,10 +1,6 @@
 site_name: 'research'
-
-nav:
-  - Home: index.md
-
+site_description: An informative description
 plugins:
   - techdocs-core
-
-repo_url: https://github.com/Fortune-Ndlovu/research
-edit_uri: https://github.com/Fortune-Ndlovu/research/edit/main/docs/
+nav:
+  - Getting Started: index.md
