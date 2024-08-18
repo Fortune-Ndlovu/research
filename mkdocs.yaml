@@ -3,4 +3,12 @@ site_description: An informative description
 plugins:
   - techdocs-core
 nav:
-  - Getting Started: index.md
+  - Prerequisite: index.md
+  - Team Tooling: team_tooling.md
+  - Agile Training: agile_training.md
+  - Education Roadmap: education_roadmap.md
+  - Workshops, Guides: workshops_guides.md
+  - Environments: environments.md
+  - Referenced Links: referenced_links.md
+  - Enablement Sessions: enablement_sessions.md
+  - Administration guide for Red Hat Developer Hub: administration_guide.md
