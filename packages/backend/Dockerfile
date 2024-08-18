@@ -29,12 +29,15 @@ RUN --mount=type=cache,target=/var/cache/apt,sharing=locked \
 RUN apt-get update && apt-get install -y python3 python3-pip python3-venv
 
 ENV VIRTUAL_ENV=/opt/venv
-RUN python3 -m venv $VIRTUAL_ENV
+    RUN python3 -m venv $VIRTUAL_ENV
 ENV PATH="$VIRTUAL_ENV/bin:$PATH"
+    
+# Install MkDocs and the TechDocs plugin
+RUN pip3 install mkdocs mkdocs-techdocs-core
 
-RUN pip3 install mkdocs-techdocs-core
 # From here on we use the least-privileged `node` user to run the backend.
 USER node
+
 
 # This should create the app dir as `node`.
 # If it is instead created as `root` then the `tar` command below will fail: `can't create directory 'packages/': Permission denied`.
