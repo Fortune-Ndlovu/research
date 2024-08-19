@@ -7,6 +7,33 @@ Prerequisites:
 
 At this point, you have an existing repository of your Backstage application, and you have also registered it as an existing component within your Backstage instance. let’s now add basic documentation.
 
+Within your `app-config.yaml` file update the techdocs section to look like the following. since our documentation will be stored locally/within the repository:
+
+```bash
+techdocs:
+  builder: 'local' # Alternatives - 'external'
+  generator:
+    runIn: 'local' # Alternatives - 'local'
+  publisher:
+    type: 'local' # Alternatives - 'googleGcs' or 'awsS3'. Read documentation for using alternatives.
+```
+
+Setting generator.runIn to local means you will have to make sure your environment is compatible with techdocs.
+
+You will have to install the `mkdocs` and `mkdocs-techdocs-core` package from pip.
+
+You can do so by including the following lines right above `USER node` of your `Dockerfile`:
+
+```bash
+RUN apt-get update && apt-get install -y python3 python3-pip python3-venv
+
+ENV VIRTUAL_ENV=/opt/venv
+RUN python3 -m venv $VIRTUAL_ENV
+ENV PATH="$VIRTUAL_ENV/bin:$PATH"
+
+RUN pip3 install mkdocs-techdocs-core
+```
+
 Create a `mkdocs.yml` file in the root of your repository with the following content:
 
 ```bash
