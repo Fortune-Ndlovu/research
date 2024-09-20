@@ -9,8 +9,8 @@
   {
     "paths": 3,
     "minutes": 20,
-    "description": "For the best experience in this learning path, we suggest that you complete the following learning resources in the order shown. When you click on a resource, it will open in a new tab. Keep this page open so you can easily move on to the next resource!",
-    "label": "Configure a Jupyter notebook to use GPUs for AI/ML modeling",
+    "description": "learn ai",
+    "label": "AI/ML modeling",
     "url": "https://developers.redhat.com/learn/openshift-data-science/configure-jupyter-notebook-use-gpus-aiml-modeling"
   },
   {
