@@ -56,5 +56,42 @@
     "description": "Whether you are using the OpenShift web console or the command line, you will learn to deploy an application from a Container Image Using the Web Console and Command-Line.",
     "label": "Deploying Applications From Images",
     "URL": "https://developers.redhat.com/courses/deploy-applications-images"
+  },
+  {
+    "paths": 5,
+    "hours": 1,
+    "description": "The Developer Sandbox for Red Hat OpenShift is a great platform for learning and experimenting with Red Hat OpenShift. Because OpenShift is built on Kubernetes, the Sandbox is also a great platform for learning and experimenting with Kubernetes.",
+    "label": "Learn Kubernetes using the Developer Sandbox for Red Hat OpenShift",
+    "URL": "https://developers.redhat.com/learn/openshift/learn-kubernetes-using-developer-sandbox-red-hat-openshift"
+  },
+  {
+    "paths": 13,
+    "hours": 3,
+    "minutes": 40,
+    "description": "Learn the foundations of OpenShift through hands-on experience deploying and working with applications, using a no-cost OpenShift cluster through the Developer Sandbox for Red Hat OpenShift.",
+    "label": "Foundations of OpenShift",
+    "URL": "https://developers.redhat.com/learn/openshift/foundations-openshift"
+  },
+  {
+    "paths": 4,
+    "minutes": 45,
+    "description": "Immerse yourself in practical aspects of OpenShift such as cluster access, file transfers, database operations, and resource management through interactive, hands-on labs.",
+    "label": "Using OpenShift",
+    "URL": "https://developers.redhat.com/learn/openshift/using-openshift"
+  },
+  {
+    "paths": 4,
+    "hours": 1,
+    "minutes": 5,
+    "description": "Create, test, and deploy Java code to OpenShift in a seamless development workflow as well as learn to use Quarkus to write data driven applications using a variety of data sources with just a few lines of code.",
+    "label": "DevOps on OpenShift",
+    "URL": "https://developers.redhat.com/learn/openshift/devops-openshift"
+  },
+  {
+    "paths": 4,
+    "minutes": 30,
+    "description": "Without data, software has no value. Data needs to be created, stored, updated, and retrieved. One way to store persistent data in OpenShift is by using a Persistent Volume Claim (PVC). In this learning path, created by Don Schenck, you will learn how to create a PVC and access it with your pod.",
+    "label": "Store persistent data in Red Hat OpenShift using PVCs",
+    "URL": "https://developers.redhat.com/learn/openshift/store-persistent-data-red-hat-openshift-using-pvcs"
   }
 ]
