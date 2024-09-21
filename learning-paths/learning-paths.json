@@ -135,5 +135,26 @@
     "description": "The following short, self-paced courses will help you get up and running in Jira Work Management quickly. You’ll learn key terms, how to navigate Jira Work Management, and how to apply best practices so you can start collaborating with your business teams.",
     "label": "Get started with Jira Work Management",
     "URL": "https://university.atlassian.com/student/collection/850385/path/2135872"
+  },
+  {
+    "paths": 1,
+    "hours": 1,
+    "description": "In the following short, self-paced courses, you’ll learn agile values, how they help teams drive success, and how to approach your everyday work with an agile mindset — no background knowledge or prerequisites required. You’ll learn how kanban and scrum frameworks can help you manage your work more efficiently and deliver maximum value to customers.",
+    "label": "Apply agile practices to manage your work",
+    "URL": "https://university.atlassian.com/student/collection/850385/path/2809962"
+  },
+  {
+    "paths": 1,
+    "hours": 5,
+    "description": "The following short, self-paced courses will help you customize Jira software projects according to your team’s needs.",
+    "label": "Configure software projects to support team efficiency",
+    "URL": "https://university.atlassian.com/student/path/2118285-configure-software-projects-to-support-team-efficiency"
+  },
+  {
+    "paths": 1,
+    "hours": 1,
+    "description": "This learning path will help you understand the principles, frameworks, and tools associated with DevOps. You will also learn how to optimize your DevOps workflow with Jira Software.",
+    "label": "Jira: Optimize your DevOps workflow",
+    "URL": "https://university.atlassian.com/student/collection/850385/path/1062311"
   }
 ]
