@@ -145,6 +145,14 @@
     "URL": "https://developers.redhat.com/courses/openshift-operators/go-operator"
   },
   {
+    "paths": 18,
+    "hours": 4,
+    "minutes": 15,
+    "description": "Everyone likes a camp romance. Argo Cd and Tekton are a match made in Kubernetes heaven. See what makes them tick!",
+    "label": "From DevOps to GitOps",
+    "URL": "https://developers.redhat.com/devnation/devops-gitops"
+  },
+  {
     "paths": 1,
     "hours": 1,
     "description": "This track provides an introduction to cloud-native development with Node.js.",
