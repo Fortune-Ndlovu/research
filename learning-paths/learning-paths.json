@@ -22,6 +22,21 @@
     "url": "https://developers.redhat.com/learn/openshift/install-and-configure-red-hat-developer-hub-and-explore-templating-basics"
   },
   {
+    "paths": 11,
+    "hours": 8,
+    "description": "Developers working in cloud native teams face the challenge of shuffling between microservices, external APIs, libraries, and other software components. Developer portals like Backstage can help teams reduce tech fragmentation, knowledge silos, and lack of ownership while promoting creativity and autonomy.",
+    "label": "Introduction to Backstage: Developer Portals Made Easy",
+    "url": "https://training.linuxfoundation.org/training/introduction-to-backstage-developer-portals-made-easy-lfs142/"
+  },
+  {
+    "paths": 3,
+    "hours": 1,
+    "minutes": 45,
+    "description": "Learn everything you need to know about Backstage with a guide to take you step-by-step.",
+    "label": "Spotify for backstage",
+    "URL": "https://backstage.spotify.com/learn/"
+  },
+  {
     "paths": 5,
     "hours": 1,
     "description": "Podman Desktop is a lightweight and efficient tool for managing containers and working with Kubernetes from your Windows, macOS, or Linux machine. From building container images to working with registries and deploying containers, Podman Desktop helps you seamlessly work with containerization technology, and simplifies the transition to container deployment on Kubernetes. This learning path, created by Don Schenck, demonstrates how you can go from an initial application to a container to a fully running pod on Kubernetes using Podman Desktop and the no-cost Developer Sandbox for Red Hat OpenShift.",
