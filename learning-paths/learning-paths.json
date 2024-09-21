@@ -12,7 +12,7 @@
     "description": "This course covers the install, updates and uninstall process for Red Hat Developer Hub (RHDH). You also learn about the basics of configuration in RHDH, and how to configure authentication using a GitHub or GitLab backend along with single sign-on functionality using Keycloak.",
     "label": "Red Hat Developer Hub Administration",
     "url": "https://training-lms.redhat.com/lmt/clmsCourseDetails.prMain?in_sessionId=59J0J330J08442A2&in_offeringId=57859457&in_selfContained=&in_from_module=CLMSBROWSEV2.PRMAIN~CLMSLEARNINGPATHDETAILS.PRMAIN&in_filter=&in_filter_2=&in_lp_id=57925014&in_lp_parent_id="
-  },,
+  },
   {
     "paths": 1,
     "hours": 4,
