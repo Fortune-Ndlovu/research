@@ -24,8 +24,37 @@
   {
     "paths": 5,
     "hours": 1,
-    "description": "Podman Desktop is a lightweight and efficient tool for managing containers and working with Kubernetes from your Windows, macOS, or Linux machine. From building container images to working with registries and deploying containers, Podman Desktop helps you seamlessly work with containerization technology, and simplifies the transition to container deployment on Kubernetes. This learning path, created by Don Schenck, demonstrates how you can go from an initial application to a container to a fully running pod on Kubernetes using Podman Desktop and the no-cost Developer Sandbox for Red Hat OpenShift."
-    "label": "Develop containers using Podman Desktop and Kubernetes"
+    "description": "Podman Desktop is a lightweight and efficient tool for managing containers and working with Kubernetes from your Windows, macOS, or Linux machine. From building container images to working with registries and deploying containers, Podman Desktop helps you seamlessly work with containerization technology, and simplifies the transition to container deployment on Kubernetes. This learning path, created by Don Schenck, demonstrates how you can go from an initial application to a container to a fully running pod on Kubernetes using Podman Desktop and the no-cost Developer Sandbox for Red Hat OpenShift.",
+    "label": "Develop containers using Podman Desktop and Kubernetes",
     "URL": "https://developers.redhat.com/learn/develop-containers-using-podman-desktop-and-kubernetes"
+  },
+  {
+    "paths": 8,
+    "hours": 1,
+    "minutes": 45,
+    "description": "Gain a thorough understanding of the moving parts that make up the typical container architecture, including container images, registries, and orchestration.",
+    "label": "Container Fundamentals",
+    "URL": "https://developers.redhat.com/learn/rhel/container-fundamentals"
+  },
+  {
+    "paths": 1,
+    "minutes": 50,
+    "description": "Learn to deploy and control an already-defined container image.",
+    "label": "Deploy containers using Podman",
+    "URL": "https://developers.redhat.com/learn/lessons/deploying-containers-podman"
+  },
+  {
+    "paths": 1,
+    "hours": 1,
+    "description": "The goal of this track is to demonstrate how to copy files to and from a Persistent Volume.",
+    "label": "Transferring Files in and out of Containers",
+    "URL": "https://developers.redhat.com/courses/transfer-files-and-out-containers"
+  },
+  {
+    "paths": 1,
+    "minutes": 41,
+    "description": "Whether you are using the OpenShift web console or the command line, you will learn to deploy an application from a Container Image Using the Web Console and Command-Line.",
+    "label": "Deploying Applications From Images",
+    "URL": "https://developers.redhat.com/courses/deploy-applications-images"
   }
 ]
