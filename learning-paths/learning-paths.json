@@ -1,5 +1,26 @@
 [
   {
+    "paths": 1,
+    "hours": 2,
+    "description": "This introductory course is focused on the WHAT and WHY of Red Hat Developer Hub.",
+    "label": "Introduction to Red Hat Developer Hub",
+    "url": "https://training-lms.redhat.com/lmt/clmsCourseDetails.prMain?in_sessionId=59J0J330J08442A2&in_offeringId=57859452&in_selfContained=&in_from_module=CLMSBROWSEV2.PRMAIN~CLMSLEARNINGPATHDETAILS.PRMAIN&in_filter=&in_filter_2=&in_lp_id=57925014&in_lp_parent_id="
+  },
+  {
+    "paths": 1,
+    "hours": 3,
+    "description": "This course covers the install, updates and uninstall process for Red Hat Developer Hub (RHDH). You also learn about the basics of configuration in RHDH, and how to configure authentication using a GitHub or GitLab backend along with single sign-on functionality using Keycloak.",
+    "label": "Red Hat Developer Hub Administration",
+    "url": "https://training-lms.redhat.com/lmt/clmsCourseDetails.prMain?in_sessionId=59J0J330J08442A2&in_offeringId=57859457&in_selfContained=&in_from_module=CLMSBROWSEV2.PRMAIN~CLMSLEARNINGPATHDETAILS.PRMAIN&in_filter=&in_filter_2=&in_lp_id=57925014&in_lp_parent_id="
+  },,
+  {
+    "paths": 1,
+    "hours": 4,
+    "description": "This course covers how to populate the Catalog in Red Hat Developer Hub (RHDH), as well as how to create and use Software Templates to provide rapid, self-service deployment capabilities to your organization's developers. We also dive deeper into several of the Red Hat developed plugins in RHDH.",
+    "label": "Building Developer Portals with Red Hat Developer Hub",
+    "url": "https://training-lms.redhat.com/lmt/clmsCourseDetails.prMain?in_sessionId=59J0J330J08442A2&in_offeringId=57859449&in_selfContained=&in_from_module=CLMSBROWSEV2.PRMAIN~CLMSLEARNINGPATHDETAILS.PRMAIN&in_filter=&in_filter_2=&in_lp_id=57925014&in_lp_parent_id="
+  },
+  {
     "paths": 4,
     "minutes": 20,
     "description": "In this learning path, you will successfully install and configure Ansible plugins on Red Hat Developer Hub (RHDH), enhancing the automation capabilities within your development environment. This comprehensive guide provides you with the knowledge and steps needed to seamlessly integrate Ansible Automation with RHDH, ensuring a unified and efficient workflow for automation developers.",
@@ -33,7 +54,7 @@
     "hours": 1,
     "minutes": 45,
     "description": "Learn everything you need to know about Backstage with a guide to take you step-by-step.",
-    "label": "Spotify for backstage",
+    "label": "Spotify for Backstage",
     "URL": "https://backstage.spotify.com/learn/"
   },
   {
