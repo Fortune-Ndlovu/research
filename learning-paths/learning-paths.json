@@ -17,8 +17,15 @@
   {
     "paths": 6,
     "hours": 2,
-    "description": " learn how to install the Red Hat Developer Hub internal developer platform and learn the concepts and skills you need to install your IDP, configure simple GitHub authorization, and explore templating basics.",
+    "description": "Learn how to install the Red Hat Developer Hub internal developer platform and learn the concepts and skills you need to install your IDP, configure simple GitHub authorization, and explore templating basics.",
     "label": "Install and configure Red Hat Developer Hub and explore templating basics",
     "url": "https://developers.redhat.com/learn/openshift/install-and-configure-red-hat-developer-hub-and-explore-templating-basics"
+  },
+  {
+    "paths": 5,
+    "hours": 1,
+    "description": "Podman Desktop is a lightweight and efficient tool for managing containers and working with Kubernetes from your Windows, macOS, or Linux machine. From building container images to working with registries and deploying containers, Podman Desktop helps you seamlessly work with containerization technology, and simplifies the transition to container deployment on Kubernetes. This learning path, created by Don Schenck, demonstrates how you can go from an initial application to a container to a fully running pod on Kubernetes using Podman Desktop and the no-cost Developer Sandbox for Red Hat OpenShift."
+    "label": "Develop containers using Podman Desktop and Kubernetes"
+    "URL": "https://developers.redhat.com/learn/develop-containers-using-podman-desktop-and-kubernetes"
   }
 ]
