@@ -214,5 +214,33 @@
     "description": "This learning path will help you understand the principles, frameworks, and tools associated with DevOps. You will also learn how to optimize your DevOps workflow with Jira Software.",
     "label": "Jira: Optimize your DevOps workflow",
     "URL": "https://university.atlassian.com/student/collection/850385/path/1062311"
+  },
+  {
+    "paths": 3,
+    "hours": 1,
+    "description": "In this learning exercise, we will start OpenShift AI within the OpenShift cluster, guide you through accessing the OpenShift AI dashboard, and illustrate the procedure for retrieving a GitHub repository within the JupyterLab environment. Using JupyterLab, you will execute sample machine learning programs.",
+    "label": "Introduction to OpenShift AI",
+    "URL": "https://developers.redhat.com/learn/openshift-ai/introduction-openshift-ai"
+  },
+  {
+    "paths": 3,
+    "hours": 1,
+    "description": "This learning exercise delves into the end-to-end process of building and managing Machine Learning (ML) pipelines using the OpenShift AI. Through a highly structured guide, developers and platform engineers are led through each step required to construct an efficient pipeline. Beginning with data acquisition, the pipeline navigates seamlessly through model training, performance evaluation, and culminates in the storage of the trained model in Amazon S3. Furthermore, the exercise empowers developers to automate pipeline runs, streamlining the entire ML workflow.",
+    "label": "Automation ML pipeline with OpenShift AI",
+    "URL": "https://developers.redhat.com/learning/learn:openshift-ai:automation-ml-pipeline-openshift-ai/resource/prerequisites-and-step-step-guide"
+  },
+  {
+    "paths": 5,
+    "hours": 1,
+    "description": "Learn how to access a large language model using Node.js and LangChain.js. You’ll also explore LangChain.js APIs that simplify common requirements like retrieval-augmented generation (RAG).",
+    "label": "How to get started with large language models and Node.js",
+    "URL": "https://developers.redhat.com/learn/openshift/how-get-started-large-language-models-and-nodejs"
+  },
+  {
+    "paths": 5,
+    "hours": 1,
+    "description": "In this learning path we dig deeper into using large language models (LLMs) with Node.js by looking at Ollama, LlamaIndex, function calling, agents and observability with Open Telemetry.",
+    "label": "Diving Deeper with large language models and Node.js",
+    "URL": "https://developers.redhat.com/learn/diving-deeper-large-language-models-and-nodejs"
   }
 ]
