@@ -242,5 +242,27 @@
     "description": "In this learning path we dig deeper into using large language models (LLMs) with Node.js by looking at Ollama, LlamaIndex, function calling, agents and observability with Open Telemetry.",
     "label": "Diving Deeper with large language models and Node.js",
     "URL": "https://developers.redhat.com/learn/diving-deeper-large-language-models-and-nodejs"
+  },
+  {
+    "paths": 7,
+    "hours": 5,
+    "description": "You've reached the one-stop-shop for Artificial Intelligence (AI) learning experiences. This is the place where all Red Hatters can go to develop their knowledge and skills in all things AI.",
+    "label": "AI Skills for All",
+    "URL": "https://developers.redhat.com/learn/diving-deeper-large-language-models-and-nodejs"
+  },
+  {
+    "paths": 7,
+    "hours": 6,
+    "description": "Our industry is being rapidly transformed through the deployment of Artificial Intelligence and Machine Learning (AI/ML) technologies.",
+    "label": "AI + training curriculum",
+    "URL": "https://source.redhat.com/departments/products_and_global_engineering/p_and_ge_content/ai_learning#tab-step-4"
+  },
+  {
+    "paths": 6,
+    "hours": 2,
+    "minutes": 45,
+    "description": "You've reached the one-stop-shop for Artificial Intelligence (AI) learning experiences.",
+    "label": "AI Skills Academy",
+    "URL": "https://source.redhat.com/career/start_learning/ai_skills_academy"
   }
 ]
