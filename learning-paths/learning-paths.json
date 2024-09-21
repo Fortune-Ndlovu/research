@@ -131,6 +131,20 @@
     "URL": "https://developers.redhat.com/learn/openshift/store-persistent-data-red-hat-openshift-using-pvcs"
   },
   {
+    "paths": 4,
+    "minutes": 45,
+    "description": "Automated builds and deployments – known as CI/CD – of container-based applications can reduce mistakes, improve productivity, and promote more thorough testing. This learning path introduces OpenShift Pipelines for automated builds and deployment.",
+    "label": "Using OpenShift Pipelines",
+    "URL": "https://developers.redhat.com/learn/openshift/using-openshift-pipelines"
+  },
+  {
+    "paths": 1,
+    "hours": 1,
+    "description": "Learn about a new Go-based Operator with the Operator SDK by hands-on learning.",
+    "label": "Operator SDK with Go",
+    "URL": "https://developers.redhat.com/courses/openshift-operators/go-operator"
+  },
+  {
     "paths": 1,
     "hours": 1,
     "description": "This track provides an introduction to cloud-native development with Node.js.",
