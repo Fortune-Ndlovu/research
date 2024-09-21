@@ -100,5 +100,40 @@
     "description": "This track provides an introduction to cloud-native development with Node.js.",
     "label": "Developing with Node.js",
     "URL": "https://developers.redhat.com/courses/developing-nodejs"
+  },
+  {
+    "paths": 1,
+    "hours": 1,
+    "description": "This practice-based path shows you how to apply Atlassian's innovative teamwork philosophies and real-life tools. Each course was designed by Atlassian’s top work futurists and can be completed in under one hour.",
+    "label": "Jira: Improve your team’s collaboration",
+    "URL": "https://university.atlassian.com/student/path/1427540-improve-your-team-s-collaboration?sid=64022b3f-a2e1-48f6-bc12-c2a3ac3e103d&sid_i=5"
+  },
+  {
+    "paths": 1,
+    "hours": 1,
+    "description": "Jira Administrators are responsible for configuring Jira Software, Jira Work Management, and/or Jira Service Management, plus related apps and third-party tools.",
+    "label": "Become an effective Jira Admin",
+    "URL": "https://university.atlassian.com/student/path/837213-become-an-effective-jira-admin?sid=64022b3f-a2e1-48f6-bc12-c2a3ac3e103d&sid_i=1"
+  },
+  {
+    "paths": 1,
+    "hours": 1,
+    "description": "The following short, self-paced courses will teach you Jira basics, including key terms and concepts and how to navigate the interface. You’ll also learn how to organize your work using issues, collaborate with team members, and customize your Jira experience.",
+    "label": "Get the most out of Jira",
+    "URL": "https://university.atlassian.com/student/collection/850385/path/1083901"
+  },
+  {
+    "paths": 1,
+    "hours": 2,
+    "description": "The following short, self-paced courses will help you get up and running in Confluence quickly. You’ll learn how to create and find all your work in one central hub and use comments and mentions to make your team more transparent, efficient, and collaborative.",
+    "label": "Get the most out of Confluence",
+    "URL": "https://university.atlassian.com/student/collection/850385/path/1083904"
+  },
+  {
+    "paths": 1,
+    "hours": 1,
+    "description": "The following short, self-paced courses will help you get up and running in Jira Work Management quickly. You’ll learn key terms, how to navigate Jira Work Management, and how to apply best practices so you can start collaborating with your business teams.",
+    "label": "Get started with Jira Work Management",
+    "URL": "https://university.atlassian.com/student/collection/850385/path/2135872"
   }
 ]
