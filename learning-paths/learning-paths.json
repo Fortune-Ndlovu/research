@@ -93,5 +93,12 @@
     "description": "Without data, software has no value. Data needs to be created, stored, updated, and retrieved. One way to store persistent data in OpenShift is by using a Persistent Volume Claim (PVC). In this learning path, created by Don Schenck, you will learn how to create a PVC and access it with your pod.",
     "label": "Store persistent data in Red Hat OpenShift using PVCs",
     "URL": "https://developers.redhat.com/learn/openshift/store-persistent-data-red-hat-openshift-using-pvcs"
+  },
+  {
+    "paths": 1,
+    "hours": 1,
+    "description": "This track provides an introduction to cloud-native development with Node.js.",
+    "label": "Developing with Node.js",
+    "URL": "https://developers.redhat.com/courses/developing-nodejs"
   }
 ]
