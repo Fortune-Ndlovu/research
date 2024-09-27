@@ -68,7 +68,7 @@ Create a `/docs` folder in the root of your repository with at least an `inde
 This is a basic example of documentation.
 ```
 
-Commit your changes, open a pull request, and merge. You will now get your updated documentation next time you run Backstage!
+Commit your changes, open up a pull request, and merge. You will now get your updated documentation next time you run Backstage!
 
 ## Reference
 
