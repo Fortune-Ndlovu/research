@@ -1,12 +1,28 @@
 [
   {
-    "title": "Quick Links",
+    "title": "Getting Started",
     "isExpanded": true,
     "links": [
       {
+        "iconUrl": "https://example.com/icons/getting-started-icon.png",
+        "label": "Introduction",
+        "url": "https://docs.example.com/getting-started/introduction"
+      },
+      {
+        "iconUrl": "https://example.com/icons/setup-icon.png",
+        "label": "Setup Guide",
+        "url": "https://docs.example.com/getting-started/setup"
+      }
+    ]
+  },
+  {
+    "title": "Documentation",
+    "isExpanded": false,
+    "links": [
+      {
         "iconUrl": "https://example.com/icons/docs-icon.png",
-        "label": "Documentation",
-        "url": "https://docs.example.com"
+        "label": "User Guide",
+        "url": "https://docs.example.com/user-guide"
       },
       {
         "iconUrl": "https://example.com/icons/api-icon.png",
@@ -16,18 +32,34 @@
     ]
   },
   {
-    "title": "Development Resources",
-    "isExpanded": true,
+    "title": "Developer Resources",
+    "isExpanded": false,
     "links": [
       {
-        "iconUrl": "https://example.com/icons/github-icon.png",
+        "iconUrl": "https://example.com/icons/resources-icon.png",
         "label": "GitHub Repository",
-        "url": "https://github.com/your-org/repo"
+        "url": "https://github.com/your-org/your-repo"
       },
       {
         "iconUrl": "https://example.com/icons/tools-icon.png",
         "label": "Development Tools",
-        "url": "https://tools.example.com"
+        "url": "https://dev-tools.example.com"
+      }
+    ]
+  },
+  {
+    "title": "Support",
+    "isExpanded": true,
+    "links": [
+      {
+        "iconUrl": "https://example.com/icons/support-icon.png",
+        "label": "Contact Support",
+        "url": "https://support.example.com"
+      },
+      {
+        "iconUrl": "https://example.com/icons/faq-icon.png",
+        "label": "FAQ",
+        "url": "https://support.example.com/faq"
       }
     ]
   }
