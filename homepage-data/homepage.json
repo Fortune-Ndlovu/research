@@ -4,7 +4,7 @@
     "isExpanded": true,
     "links": [
       {
-        "iconUrl": "./icons/get-started-app.svg",
+        "iconUrl": "https://developer-hub-backstage-team.apps.janus.dj….openshiftapps.com/homepage/icons/podman_logo.svg",
         "label": "Introduction",
         "url": "https://docs.example.com/getting-started/introduction"
       },
