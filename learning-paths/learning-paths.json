@@ -12,5 +12,27 @@
     "description": "For the best experience in this learning path, we suggest that you complete the following learning resources in the order shown. When you click on a resource, it will open in a new tab. Keep this page open so you can easily move on to the next resource!",
     "label": "Configure a Jupyter notebook to use GPUs for AI/ML modeling",
     "url": "https://developers.redhat.com/learn/openshift-data-science/configure-jupyter-notebook-use-gpus-aiml-modeling"
+  },
+  {
+    "paths": 20,
+    "hours": 7,
+    "minutes": 40,
+    "description": "This hands on experience will introduce you to developing on OpenShift. Learn how to access OpenShift from the command line, deploy an existing Spring application, and scale up your application to handle increased web traffic.",
+    "label": "Deploy a Spring application on OpenShift",
+    "url": "https://developers.redhat.com/learn/openshift/deploy-spring-application-openshift"
+  },
+  {
+    "paths": 8,
+    "hours": 1,
+    "description": "Follow these step-by-step instructions to get started with OpenShift API Management, and deploy and test your first API.",
+    "label": "Deploy and manage your first API",
+    "url": "https://developers.redhat.com/learn/deploy-and-manage-your-first-api"
+  },
+  {
+    "paths": 5,
+    "hours": 1,
+    "description": "Continue your Apache Kafka journey by developing consumers and producers in Java to stream data using Red Hat OpenShift Streams for Apache Kafka.",
+    "label": "Develop consumers and producers in Java",
+    "url": "https://developers.redhat.com/learn/openshift-streams-for-apache-kafka/develop-consumers-and-producers-java"
   }
 ]
