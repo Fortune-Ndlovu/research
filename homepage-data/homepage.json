@@ -20,12 +20,12 @@
     "isExpanded": false,
     "links": [
       {
-        "iconUrl": "https://example.com/icons/docs-icon.png",
+        "iconUrl": "https://img.icons8.com/officel/100/east-direction.png",
         "label": "User Guide",
         "url": "https://docs.example.com/user-guide"
       },
       {
-        "iconUrl": "https://example.com/icons/api-icon.png",
+        "iconUrl": "https://img.icons8.com/cute-clipart/100/api.png",
         "label": "API Reference",
         "url": "https://docs.example.com/api"
       }
@@ -36,12 +36,12 @@
     "isExpanded": false,
     "links": [
       {
-        "iconUrl": "https://example.com/icons/resources-icon.png",
+        "iconUrl": "https://img.icons8.com/ios-filled/250/github.png",
         "label": "GitHub Repository",
         "url": "https://github.com/your-org/your-repo"
       },
       {
-        "iconUrl": "https://example.com/icons/tools-icon.png",
+        "iconUrl": "https://img.icons8.com/nolan/256/visual-basic-2008.png",
         "label": "Development Tools",
         "url": "https://dev-tools.example.com"
       }
@@ -52,12 +52,12 @@
     "isExpanded": true,
     "links": [
       {
-        "iconUrl": "https://example.com/icons/support-icon.png",
+        "iconUrl": "https://img.icons8.com/bubbles/200/support.png",
         "label": "Contact Support",
         "url": "https://support.example.com"
       },
       {
-        "iconUrl": "https://example.com/icons/faq-icon.png",
+        "iconUrl": "https://img.icons8.com/office/100/faq.png",
         "label": "FAQ",
         "url": "https://support.example.com/faq"
       }
