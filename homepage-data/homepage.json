@@ -4,7 +4,7 @@
     "isExpanded": true,
     "links": [
       {
-        "iconUrl": "/icons/get-started-app.svg",
+        "iconUrl": "./icons/get-started-app.svg",
         "label": "Introduction",
         "url": "https://docs.example.com/getting-started/introduction"
       },
