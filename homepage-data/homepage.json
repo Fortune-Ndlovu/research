@@ -4,7 +4,7 @@
     "isExpanded": true,
     "links": [
       {
-        "iconUrl": "https://raw.githubusercontent.com/Fortune-Ndlovu/research/main/homepage-data/icons/get-started-app.svg",
+        "iconUrl": "/icons/get-started-app.svg",
         "label": "Introduction",
         "url": "https://docs.example.com/getting-started/introduction"
       },
