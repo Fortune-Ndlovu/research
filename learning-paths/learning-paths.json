@@ -22,13 +22,6 @@
     "url": "https://developers.redhat.com/learn/openshift/deploy-spring-application-openshift"
   },
   {
-    "paths": 8,
-    "hours": 1,
-    "description": "Follow these step-by-step instructions to get started with OpenShift API Management, and deploy and test your first API.",
-    "label": "Deploy and manage your first API",
-    "url": "https://developers.redhat.com/learn/deploy-and-manage-your-first-api"
-  },
-  {
     "paths": 5,
     "hours": 1,
     "description": "Continue your Apache Kafka journey by developing consumers and producers in Java to stream data using Red Hat OpenShift Streams for Apache Kafka.",
