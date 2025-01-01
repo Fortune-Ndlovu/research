@@ -8,4 +8,3 @@ To start the app, run:
 yarn install
 yarn dev
 ```
-# research, exploratory purposes only
