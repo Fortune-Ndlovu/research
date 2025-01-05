@@ -1,3 +1,3 @@
-# RHDH Education Roadmap - Agile Training
+# Agile Training
 
 - Agile
