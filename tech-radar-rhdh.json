@@ -1,0 +1,468 @@
+{
+  "rings": [
+    {
+      "id": "adopt",
+      "name": "ADOPT",
+      "color": "#5BA300",
+      "description": "Technologies we have high confidence in to serve our purpose, also in large scale."
+    },
+    {
+      "id": "trial",
+      "name": "TRIAL",
+      "color": "#009EB0",
+      "description": "Technologies that we see potential in and are worth pursuing."
+    },
+    {
+      "id": "assess",
+      "name": "ASSESS",
+      "color": "#C7BA00",
+      "description": "Technologies that are promising and have clear potential value."
+    },
+    {
+      "id": "hold",
+      "name": "HOLD",
+      "color": "#E09B96",
+      "description": "Technologies not recommended to be used for new projects."
+    }
+  ],
+  "quadrants": [
+    {
+      "id": "languages",
+      "name": "Languages"
+    },
+    {
+      "id": "frameworks",
+      "name": "Frameworks"
+    },
+    {
+      "id": "infrastructure",
+      "name": "Infrastructure"
+    },
+    {
+      "id": "process",
+      "name": "Process"
+    }
+  ],
+  "entries": [
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2024-01-01T00:00:00.000Z",
+          "description": "JavaScript is a versatile programming language that's essential for modern web development."
+        }
+      ],
+      "key": "javascript",
+      "id": "javascript",
+      "title": "JavaScript",
+      "quadrant": "languages",
+      "links": [
+        {
+          "url": "https://www.javascript.com/",
+          "title": "Learn more"
+        }
+      ],
+      "description": "JavaScript is a versatile programming language that's essential for modern web development."
+    },
+    {
+      "timeline": [
+        {
+          "moved": 1,
+          "ringId": "trial",
+          "date": "2024-01-01T00:00:00.000Z",
+          "description": "TypeScript is JavaScript with syntax for types, providing better tooling and error detection."
+        }
+      ],
+      "key": "typescript",
+      "id": "typescript",
+      "title": "TypeScript",
+      "quadrant": "languages",
+      "links": [
+        {
+          "url": "https://www.typescriptlang.org/",
+          "title": "Learn more"
+        }
+      ],
+      "description": "TypeScript is JavaScript with syntax for types, providing better tooling and error detection."
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2024-01-01T00:00:00.000Z",
+          "description": "Python is a high-level programming language known for its simplicity and readability."
+        }
+      ],
+      "key": "python",
+      "id": "python",
+      "title": "Python",
+      "quadrant": "languages",
+      "links": [
+        {
+          "url": "https://www.python.org/",
+          "title": "Learn more"
+        }
+      ],
+      "description": "Python is a high-level programming language known for its simplicity and readability."
+    },
+    {
+      "timeline": [
+        {
+          "moved": -1,
+          "ringId": "adopt",
+          "date": "2024-01-01T00:00:00.000Z",
+          "description": "Java is a class-based, object-oriented programming language."
+        }
+      ],
+      "key": "java",
+      "id": "java",
+      "title": "Java",
+      "quadrant": "languages",
+      "links": [
+        {
+          "url": "https://www.java.com/",
+          "title": "Learn more"
+        }
+      ],
+      "description": "Java is a class-based, object-oriented programming language."
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "trial",
+          "date": "2024-01-01T00:00:00.000Z",
+          "description": "Go is a programming language developed by Google known for its performance and simplicity."
+        }
+      ],
+      "key": "go",
+      "id": "go",
+      "title": "Go",
+      "quadrant": "languages",
+      "links": [
+        {
+          "url": "https://golang.org/",
+          "title": "Learn more"
+        }
+      ],
+      "description": "Go is a programming language developed by Google known for its performance and simplicity."
+    },
+    {
+      "timeline": [
+        {
+          "moved": 1,
+          "ringId": "assess",
+          "date": "2024-01-01T00:00:00.000Z",
+          "description": "Rust is a systems programming language focused on safety, speed, and concurrency."
+        }
+      ],
+      "key": "rust",
+      "id": "rust",
+      "title": "Rust",
+      "quadrant": "languages",
+      "links": [
+        {
+          "url": "https://www.rust-lang.org/",
+          "title": "Learn more"
+        }
+      ],
+      "description": "Rust is a systems programming language focused on safety, speed, and concurrency."
+    },
+    {
+      "timeline": [
+        {
+          "moved": -1,
+          "ringId": "hold",
+          "date": "2024-01-01T00:00:00.000Z",
+          "description": "Server-side scripting language - being phased out for new projects."
+        }
+      ],
+      "key": "php",
+      "id": "php",
+      "title": "PHP",
+      "quadrant": "languages",
+      "links": [
+        {
+          "url": "https://www.php.net/",
+          "title": "Learn more"
+        }
+      ],
+      "description": "Server-side scripting language - being phased out for new projects."
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2024-01-01T00:00:00.000Z",
+          "description": "A JavaScript library for building user interfaces, particularly web applications."
+        }
+      ],
+      "key": "react",
+      "id": "react",
+      "title": "React",
+      "quadrant": "frameworks",
+      "links": [
+        {
+          "url": "https://reactjs.org/",
+          "title": "Learn more"
+        }
+      ],
+      "description": "A JavaScript library for building user interfaces, particularly web applications."
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "trial",
+          "date": "2024-01-01T00:00:00.000Z",
+          "description": "JavaScript runtime built on Chrome's V8 JavaScript engine."
+        }
+      ],
+      "key": "nodejs",
+      "id": "nodejs",
+      "title": "Node.js",
+      "quadrant": "frameworks",
+      "links": [
+        {
+          "url": "https://nodejs.org/",
+          "title": "Learn more"
+        }
+      ],
+      "description": "JavaScript runtime built on Chrome's V8 JavaScript engine."
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "trial",
+          "date": "2024-01-01T00:00:00.000Z",
+          "description": "Java-based framework for building production-ready applications."
+        }
+      ],
+      "key": "springboot",
+      "id": "springboot",
+      "title": "Spring Boot",
+      "quadrant": "frameworks",
+      "links": [
+        {
+          "url": "https://spring.io/projects/spring-boot",
+          "title": "Learn more"
+        }
+      ],
+      "description": "Java-based framework for building production-ready applications."
+    },
+    {
+      "timeline": [
+        {
+          "moved": 1,
+          "ringId": "trial",
+          "date": "2024-01-01T00:00:00.000Z",
+          "description": "Modern, fast web framework for building APIs with Python 3.7+."
+        }
+      ],
+      "key": "fastapi",
+      "id": "fastapi",
+      "title": "FastAPI",
+      "quadrant": "frameworks",
+      "links": [
+        {
+          "url": "https://fastapi.tiangolo.com/",
+          "title": "Learn more"
+        }
+      ],
+      "description": "Modern, fast web framework for building APIs with Python 3.7+."
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "assess",
+          "date": "2024-01-01T00:00:00.000Z",
+          "description": "A radical new approach to building user interfaces."
+        }
+      ],
+      "key": "svelte",
+      "id": "svelte",
+      "title": "Svelte",
+      "quadrant": "frameworks",
+      "links": [
+        {
+          "url": "https://svelte.dev/",
+          "title": "Learn more"
+        }
+      ],
+      "description": "A radical new approach to building user interfaces."
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "assess",
+          "date": "2024-01-01T00:00:00.000Z",
+          "description": "Progressive JavaScript framework for building user interfaces."
+        }
+      ],
+      "key": "vuejs",
+      "id": "vuejs",
+      "title": "Vue.js",
+      "quadrant": "frameworks",
+      "links": [
+        {
+          "url": "https://vuejs.org/",
+          "title": "Learn more"
+        }
+      ],
+      "description": "Progressive JavaScript framework for building user interfaces."
+    },
+    {
+      "timeline": [
+        {
+          "moved": -1,
+          "ringId": "hold",
+          "date": "2024-01-01T00:00:00.000Z",
+          "description": "Platform for building mobile and desktop web applications."
+        }
+      ],
+      "key": "angular",
+      "id": "angular",
+      "title": "Angular",
+      "quadrant": "frameworks",
+      "links": [
+        {
+          "url": "https://angular.io/",
+          "title": "Learn more"
+        }
+      ],
+      "description": "Platform for building mobile and desktop web applications."
+    },
+    {
+      "timeline": [
+        {
+          "moved": -1,
+          "ringId": "hold",
+          "date": "2024-01-01T00:00:00.000Z",
+          "description": "JavaScript library - superseded by modern frameworks."
+        }
+      ],
+      "key": "jquery",
+      "id": "jquery",
+      "title": "jQuery",
+      "quadrant": "frameworks",
+      "links": [
+        {
+          "url": "https://jquery.com/",
+          "title": "Learn more"
+        }
+      ],
+      "description": "JavaScript library - superseded by modern frameworks."
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2024-01-01T00:00:00.000Z",
+          "description": "Production-grade container orchestration system."
+        }
+      ],
+      "key": "kubernetes",
+      "id": "kubernetes",
+      "title": "Kubernetes",
+      "quadrant": "infrastructure",
+      "links": [
+        {
+          "url": "https://kubernetes.io/",
+          "title": "Learn more"
+        }
+      ],
+      "description": "Production-grade container orchestration system."
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2024-01-01T00:00:00.000Z",
+          "description": "Platform for developing, shipping, and running applications in containers."
+        }
+      ],
+      "key": "docker",
+      "id": "docker",
+      "title": "Docker",
+      "quadrant": "infrastructure",
+      "links": [
+        {
+          "url": "https://www.docker.com/",
+          "title": "Learn more"
+        }
+      ],
+      "description": "Platform for developing, shipping, and running applications in containers."
+    },
+    {
+      "timeline": [
+        {
+          "moved": 1,
+          "ringId": "trial",
+          "date": "2024-01-01T00:00:00.000Z",
+          "description": "Enterprise Kubernetes platform for modern application development."
+        }
+      ],
+      "key": "openshift",
+      "id": "openshift",
+      "title": "OpenShift",
+      "quadrant": "infrastructure",
+      "links": [
+        {
+          "url": "https://www.redhat.com/en/technologies/cloud-computing/openshift",
+          "title": "Learn more"
+        }
+      ],
+      "description": "Enterprise Kubernetes platform for modern application development."
+    },
+    {
+      "timeline": [
+        {
+          "moved": 1,
+          "ringId": "trial",
+          "date": "2024-01-01T00:00:00.000Z",
+          "description": "Declarative GitOps continuous delivery tool for Kubernetes."
+        }
+      ],
+      "key": "argocd",
+      "id": "argocd",
+      "title": "ArgoCD",
+      "quadrant": "infrastructure",
+      "links": [
+        {
+          "url": "https://argo-cd.readthedocs.io/",
+          "title": "Learn more"
+        }
+      ],
+      "description": "Declarative GitOps continuous delivery tool for Kubernetes."
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2024-01-01T00:00:00.000Z",
+          "description": "Infrastructure as code software tool for building, changing, and versioning infrastructure."
+        }
+      ],
+      "key": "terraform",
+      "id": "terraform",
+      "title": "Terraform",
+      "quadrant": "infrastructure",
+      "links": [
+        {
+          "url": "https://www.terraform.io/",
+          "title": "Learn more"
+        }
+      ],
+      "description": "Infrastructure as code software tool for building, changing, and versioning infrastructure."
+    }
+  ]
+}
